@@ -1,10 +1,11 @@
 ### Hi there 👋
+- 📚 [Things I read](https://github.com/hisenyuan/read/blob/main/README.md)
 
 <!--
 **hisenyuan/hisenyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 📚 [Things I read](https://github.com/hisenyuan/read/blob/main/README.md)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![Statistics](https://github-readme-stats.vercel.app/api?username=hisenyuan&show_icons=true&count_private=true)](https://github.com/hisenyuan)
