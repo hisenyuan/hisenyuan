@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📚 Things I read
-    - [Pages](https://github.com/hisenyuan/read/blob/main/README.md)
-    - [Books](https://hisen.me/booklist/)
+    - [Pages](https://github.com/hisenyuan/read/blob/main/README.md){:target="_blank"}
+    - [Books](https://hisen.me/booklist/){:target="_blank"}
 
 <!--
 **hisenyuan/hisenyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
