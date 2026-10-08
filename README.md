@@ -2,3 +2,6 @@
 - 📚 Things I read
     - [Pages](https://github.com/hisenyuan/read/blob/main/README.md)
     - [Books](https://hisen.me/booklist/)
+- Blog
+  - [Achieves](https://hisen.me/archives/)
+  - [About Me](https://hisen.me/about/)
